@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あっはっは笑 (Ha Ha Ha) - [Fan made Instrumental / Not Official ] – 巡巡 (Meguri Meguru) | TIXmann",
+  "base_artist": "TIXmann",
+  "createdAt": "2025-12-01T05:31:08.948270Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あっはっは笑",
+      "artist": "巡巡",
+      "has_synced": false,
+      "path": "select/pl_01_あっはっは笑_巡巡.txt"
+    }
+  ]
+}
